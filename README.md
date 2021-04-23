@@ -30,10 +30,5 @@ Notebook has following sections:
 3. Data Iterators - loading training/test/evaluation sets from files to dataset objects
 4. Training - loading model, distributing dataset to remote workers and federated training
 
-
-
-
-
-
 [![Foo](https://avatars1.githubusercontent.com/u/6571379?s=200&v=4 )](http://imrsv.ai/)
 [![Foo](https://d9hhrg4mnvzow.cloudfront.net/discover.mitacs.ca/innovationroi/1qoj9ta-mitacs-transparent_07w02d000000000000001.png)](https://www.mitacs.ca/en)
