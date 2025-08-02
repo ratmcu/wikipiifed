@@ -30,5 +30,5 @@ Notebook has following sections:
 3. Data Iterators - loading training/test/evaluation sets from files to dataset objects
 4. Training - loading model, distributing dataset to remote workers and federated training
 
-[![Foo](https://avatars1.githubusercontent.com/u/6571379?s=200&v=4 )](http://imrsv.ai/)
-[![Foo](https://d9hhrg4mnvzow.cloudfront.net/discover.mitacs.ca/innovationroi/1qoj9ta-mitacs-transparent_07w02d000000000000001.png)](https://www.mitacs.ca/en)
+[![imrsv](https://images.squarespace-cdn.com/content/v1/62fd1ab8c7e7ec56988ac131/6b37a1d3-24bd-44eb-b662-a3e2c84141c1/Logo+white+%283%29.png?format=250w)](https://anvil.ai/)
+[![mitacs](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgYm3eMaDRNuVwvTl0Znf2EqdyNscozIANTA&s)](https://www.mitacs.ca/en)
